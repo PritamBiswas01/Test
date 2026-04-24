@@ -3,13 +3,5 @@ this is 2nd line
 this is my 3rd line
 new line added
 this is a new line again
-xxxxxxYYYYYYY
-lines written for conflict
-
-
 new line added for cnflict in main
-<<<<<<< HEAD
-
-=======
 BBBBBBBB
->>>>>>> main
