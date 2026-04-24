@@ -8,4 +8,8 @@ lines written for conflict
 
 
 new line added for cnflict in main
+<<<<<<< HEAD
 
+=======
+BBBBBBBB
+>>>>>>> main
