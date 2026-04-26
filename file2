@@ -34,7 +34,7 @@ this is my 3rd line
 new line added
 this is a new line again
 new line added for cnflict in main
-BBBBBBBB = CCCCCCCCC12 = DDDDDDD = EEEEEEE==FFFFFF= GGGGGG
+BBBBBBBB = CCCCCCCCC123 = DDDDDDD = EEEEEEE==FFFFFF= GGGGGG
 PPPPPPPP
 XXXXXXXX
 new line added in main branch
@@ -43,4 +43,4 @@ new line added in develop to add conflict -- changed again to create conflict --
 *********************************
 new line added in develop = changing only develop
 new line added in main = changes added to main to add conflict = changes added to main aagin
-new line added in main = changes added to main to add conflict = changes added to main aagin- added for conflict
+new line added in main = changes added to main to add conflict = changes added to main aagin- added for conflictgit s
