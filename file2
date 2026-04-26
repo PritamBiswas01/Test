@@ -34,12 +34,7 @@ this is my 3rd line
 new line added
 this is a new line again
 new line added for cnflict in main
-<<<<<<< HEAD
-BBBBBBBB = CCCCCCCCC123 = DDDDDDD = EEEEEEE==FFFFFF= GGGGGG24
-=======
 BBBBBBBB = CCCCCCCCC123 = DDDDDDD = EEEEEEE==FFFFFF= GGGGGG23
->>>>>>> main
-PPPPPPPP
 XXXXXXXX
 YYYYYYYY
 new line added in main branch
